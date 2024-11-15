@@ -9,7 +9,7 @@ Las convenciones de nomenclatura tenemos:
 
 nombre_docente = "Jorge"  # snake_Case
 nombreDocente = "Juan"  # camelCase
-NombreDocente = "Juan"  # PascalCase
+NombreDocente = "Juan"  # PascalCase or UpperCamelCase
 NOMBRE_DOCENTE = "Pedro"  # UPPER_CASE
 
 # Definir una variable de tipo entero (int) para almacenar el número de estudiantes

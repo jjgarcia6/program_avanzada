@@ -1,7 +1,7 @@
 """Ejercicio de Aprendizaje"""
 
-numero1 = int(input("Ingrese 1er numero: "))
-numero2 = int(input("Ingrese 2do numero: "))
+numero1 = float(input("Ingrese 1er numero: "))
+numero2 = float(input("Ingrese 2do numero: "))
 
 print("Seleccione la operacion + , - , * , /")
 operacion = input()
